@@ -1,12 +1,11 @@
-```markdown
-<div align="center">
+ <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Juan+Diego+%F0%9F%91%8B;Systems+Engineering+Student+%F0%9F%8E%93;Aspiring+Frontend+Developer+%F0%9F%92%BB;Software+Engineering+%7C+UX%2FUI+%7C+Creative+Coding" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=27&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Juan+Diego+%F0%9F%91%8B;Systems+Engineering+Student+%F0%9F%8E%93;Aspiring+Frontend+Developer+%F0%9F%92%BB;Software+Engineering+%7C+UX%2FUI+%7C+Creative+Coding" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/JuanDiegoDominguez16">
-  <img src="https://img.shields.io/badge/GitHub-JuanDiegoDominguez16-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-JuanDiegoDominguez16-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <img src="https://img.shields.io/badge/Location-Cali%2C%20Colombia-58A6FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Software%20Engineering-7C3AED?style=for-the-badge" alt="Focus"/>
@@ -38,50 +37,14 @@ I'm passionate about understanding how software works, solving challenging probl
 
 ---
 
-## 🔭 What I'm Building & Exploring
+## 🔭 What I'm Working On
 
-<table>
-<tr>
-<td width="50%">
-
-### 💣 Multiplayer Minesweeper
-
-Exploring multiplayer game development with Java, sockets, and client-server communication.
-
-**Focus:** Networking · Game Logic · Software Architecture
-
-</td>
-<td width="50%">
-
-### ☁️ CloudTask
-
-A team project focused on task management and web application development.
-
-**Focus:** JavaScript · Web Development · Collaboration
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚢 Battleship
-
-An implementation of the classic Battleship game using Java.
-
-**Focus:** Object-Oriented Programming · Game Logic
-
-</td>
-<td width="50%">
-
-### 📐 Least Squares Project
-
-A Python project related to least-squares methods and mathematical computation.
-
-**Focus:** Python · Mathematics · Numerical Computing
-
-</td>
-</tr>
-</table>
+- 💣 **Multiplayer Minesweeper:** Exploring game development with Java, sockets, and client-server communication.
+- ☁️ **CloudTask:** Collaborating on a task management web application.
+- 🚢 **Battleship:** Applying object-oriented programming and game logic in Java.
+- 📐 **Least Squares Project:** Exploring mathematical computation using Python.
+- 🎨 **UI/UX Design:** Experimenting with interface layouts, colors, and prototyping in Figma.
+- 🌐 **Web Development:** Strengthening my foundations in HTML, CSS, and JavaScript.
 
 ---
 
@@ -95,11 +58,11 @@ A Python project related to least-squares methods and mathematical computation.
 
 </div>
 
-### 🌐 Web Development & Design
+### 🌐 Frontend Development & Design
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,figma&theme=dark" alt="Web Development and Design"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,figma&theme=dark" alt="Frontend and Design"/>
 
 </div>
 
@@ -111,43 +74,43 @@ A Python project related to least-squares methods and mathematical computation.
 
 </div>
 
-### 🧠 Computer Science
+### 🧠 Computer Science Foundations
 
 - Object-Oriented Programming
 - Data Structures and Algorithms
 - Discrete Mathematics and Formal Languages
 - Client-Server Architecture and Network Programming
-- Software Design and Problem Solving
+- Relational Databases and SQL
 - Mathematical Computing with Python
 
 ---
 
-## 🚀 Explore My Repositories
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/JuanDiegoDominguez16/MinesWeeper_Sockets">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanDiegoDominguez16&repo=MinesWeeper_Sockets&theme=tokyonight&hide_border=true" alt="MinesWeeper Sockets"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanDiegoDominguez16&repo=MinesWeeper_Sockets&theme=tokyonight&hide_border=true" alt="MinesWeeper Sockets"/>
 </a>
 
 <a href="https://github.com/JuanDiegoDominguez16/cloudtask-equipoG1-5">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanDiegoDominguez16&repo=cloudtask-equipoG1-5&theme=tokyonight&hide_border=true" alt="CloudTask"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanDiegoDominguez16&repo=cloudtask-equipoG1-5&theme=tokyonight&hide_border=true" alt="CloudTask"/>
 </a>
 
 <a href="https://github.com/JuanDiegoDominguez16/Battleship">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanDiegoDominguez16&repo=Battleship&theme=tokyonight&hide_border=true" alt="Battleship"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanDiegoDominguez16&repo=Battleship&theme=tokyonight&hide_border=true" alt="Battleship"/>
 </a>
 
 <a href="https://github.com/JuanDiegoDominguez16/Least_Squares_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanDiegoDominguez16&repo=Least_Squares_Project&theme=tokyonight&hide_border=true" alt="Least Squares Project"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanDiegoDominguez16&repo=Least_Squares_Project&theme=tokyonight&hide_border=true" alt="Least Squares Project"/>
 </a>
 
 </div>
 
 <p align="center">
-  <a href="https://github.com/JuanDiegoDominguez16?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
-  </a>
+<a href="https://github.com/JuanDiegoDominguez16?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+</a>
 </p>
 
 ---
@@ -172,35 +135,38 @@ A Python project related to least-squares methods and mathematical computation.
 
 ---
 
-## 🎯 My Current Direction
+## 🎯 My Direction
 
-```text
-Software Engineering  ──► Writing better, maintainable code
-Frontend Development  ──► Building engaging web interfaces
-UX/UI Design          ──► Understanding users and usability
-Problem Solving       ──► Turning complex problems into solutions
-Continuous Learning   ──► Growing through projects and collaboration
-```
+<div align="center">
 
-I'm particularly interested in projects where **engineering meets creativity** — building applications that work reliably, look good, and provide a great user experience.
+| Area | What I'm Exploring |
+|:---|:---|
+| 💻 Software Engineering | Writing clean, maintainable code |
+| 🌐 Frontend Development | Building engaging and responsive interfaces |
+| 🎨 UX/UI Design | Creating intuitive user experiences |
+| 🧩 Problem Solving | Turning complex challenges into solutions |
+| 🚀 Continuous Learning | Growing through projects and collaboration |
+
+</div>
+
+I'm especially interested in projects where **engineering meets creativity** — applications that work reliably, look good, and provide a great user experience.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to learning from other developers, collaborating on interesting projects, and connecting with people who are passionate about technology.
+I'm always happy to connect with fellow students, developers, designers, and people passionate about technology.
 
 <div align="center">
 
 <a href="https://github.com/JuanDiegoDominguez16">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
 ### ⭐ Thanks for stopping by!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Keep+learning.+Keep+building.+Keep+growing.+%F0%9F%9A%80" alt="Closing message"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&lines=Keep+learning.+Keep+building.+Keep+growing.+%F0%9F%9A%80" alt="Closing Message"/>
 
 </div>
-```
