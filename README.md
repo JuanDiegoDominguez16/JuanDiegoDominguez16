@@ -20,7 +20,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Hey! I'm **Juan Diego**, a Systems Engineering student at [Universidad Icesi](https://www.icesi.edu.co/), based in Cali, Colombia 🇨🇴.
 
@@ -54,27 +54,45 @@ I'm passionate about understanding how software works, solving challenging probl
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp,scala&theme=dark" alt="Programming Languages"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala"/>
 
 </div>
 
-### 🌐 Frontend Development & Design
+### 🌐 Frontend Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,figma&theme=dark" alt="Frontend and Design"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 
 </div>
 
-### ⚙️ Tools & Workflow
+### 🎨 Design
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" alt="Development Tools"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/UI%2FUX-7C3AED?style=for-the-badge&logo=design&logoColor=white" alt="UI/UX Design"/>
 
 </div>
 
-### 🧠 Computer Science Foundations
+### ⚙️ Tools & Development Environment
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+
+</div>
+
+### 🧠 Computer Science
 
 - Object-Oriented Programming
 - Data Structures and Algorithms
@@ -82,9 +100,6 @@ I'm passionate about understanding how software works, solving challenging probl
 - Client-Server Architecture and Network Programming
 - Relational Databases and SQL
 - Mathematical Computing with Python
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
